@@ -1,8 +1,6 @@
 ﻿// Controllers/StudentsController.cs
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-//using YourNamespace.Data;
-//using YourNamespace.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using WebAPI1Project.Models;
